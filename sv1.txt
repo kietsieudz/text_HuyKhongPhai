@@ -51,7 +51,7 @@ săn boss, thông báo boss, tb|chat "sb" để bật thông báo. Đối với 
 thiên sứ, hủy diệt, ts, hd| Tất cả trang bị trong game đều tạo bởi hạt mít ở đảo kame, anh em nhấp vào chế tạo trang bị sau đó chọn loại trang bị để xem hướng dẫn cách tạo. Các trang bị của game có chi tiết trong bài viết tại website: http://ngocrongmarid.online/bai-viet?id=61
 lag, vô game, vào game, xoay, quay, mờ, nhòa, đứng, lang|Xóa dữ liệu. Nhòe màn hình thì xóa dữ liệu rồi vào lại. Lag thì quay video cụ thể lỗi như nào rồi gửi vào box để ae hướng dẫn fix nhé. Ai bị kẹt acc thì lên web thoát kẹt nhé : http://ngocrongmarid.online/thoat-ket
 mod, lệnh| Chức năng mod: phần chức mod mod tại mục chức năng của bản thân. Ngoài ra bạn có thể mở Menu mod bằng cách ấn vào logo trên màn hình ( hoặc nút tam giác bên phải màn hình ) - Phím X đổi với PC để bật
-ngọc rồng, nro|Ngọc rồng được free tại code, nhập tại nhà. Ngoài ra còn có thể săn các loại boss để kiếm thêm. Ra đầu làng có Npc thượng đế để ước rồng, up đệ lên 1ty5 rồi ra đầu làng ước rồng đổi skill 2-3, 3-4
+ngọc rồng, nro|Ngọc rồng được free tại code, nhập tại nhà. Ngoài ra còn có thể săn các loại boss để kiếm thêm. Ra đầu làng có Npc thượng đế để ước rồng, up đệ lên 1ty5 rồi ra đầu làng ước rồng đổi skill 2-3, 3-4. Ngoài ra ngọc rồng có thể kiếm từ bằng cách up quái, săn boss,....
 spl, pha lê|Nhận free tại NPC ở nhà, nhìn kĩ vào nè
 di chuyển, tương lai, tl, cold| chat "map" để di chuyển
 tương lai, tl| Đến rừng bamboo để gặp trunks
@@ -60,10 +60,12 @@ auto, item|Vudang thì thêm vào list, mod vip thì bấm vào vật phẩm ch�
 tự động|Bạn muốn hỏi về auto: đập đồ, chỉ số, item?
 thỏi vàng, tv, vàng, âm| Thỏi vàng chỉ sử dụng, không bán. Nhận free ở nhà. Vàng nhận free ở nhà
 share, quà|Share bài ngay nhận quà liền tay: https://zalo.me/g/tavdte682
-sức đánh, hp, ki, sd, chỉ số, cs| 40k SD, 800K HP KI
+sức đánh, hp, ki, sd, chỉ số, cs| Chỉ số: 40k SD, 800K HP KI, Chí mạng: 10
 mtv|mtv free
 ô, trống| Ô trống thứ nhất là phụ kiện pet ( Mua ở shop santa bằng nhẫn quý tộc hoặc cày các sự kiện hàng tháng). Ô trống kế cuối là phụ kiện Ngọc bội ( Mua shop santa hoặc đi NRSD 3s để nhận )
 skh, kích hoạt, kích hoạt, kh| Set kích hoạt thường 10s up quái 3 map đầu làng. Set kích hoạt vip nhận free từ code. Các set kích hoạt khác thì đến bà hạt mít ở Đảo có hướng dẫn tạo. Ngoài ra có thể mua ở shop santa
 ngục tù| hành tinh ngục tù ( chat map để di chuyển nhanh) . thần điện -> kaio -> thánh địa -> hành tinh bill -> hành tinh ngục tù
 Hồng ngọc, hn, hngoc| Hồng ngọc nhận free ở nhà
 mất, lỗi|  Các vật phẩm: nhẫn quý tộc, hoa bỉ ngạn, ngân phiếu sẽ chuyển thành điểm như vàng, ngọc và được hiền thị ở mục nhiệm vụ
+Thức ăn| Set thần linh up quái ở cold là up rơi nhé
+
