@@ -7,7 +7,7 @@ open, test| Server Dame TRUNG MỚI OPEN free vàng, ngọc xanh, hồng ngọc 
 ngu, ngáo, bot xịn|Chào bạn, mình là chat bot tự động để hỗ trợ các thắc mắc của bạn. 
 hoa, hoa bỉ ngạn, bỉ ngạn|Hoa bỉ ngạn có thể tìm bằng cách up quái ở cold, phân rã đồ thần ở hạt mít đảo kame, săn boss như: luffy, bojack, hutao, black, anubis,....... Ngoài ra bạn có thể kiếm các vật phẩm từ game để trao đổi mua bán bằng hoa thông shop kí gửi. Các thông tin về số lượng được hiển thị ở mục nhiệm vụ
 nhẫn, nhẫn quý tộc, vòng vàng|nhẫn quý tộc làm nhiệm vụ ngày ở bò mộng. Hàng tháng sẽ có các sự kiện để ae kiếm nhẫn cũng như tranh top để nhận quà là nhẫn quý tộc. Các thông tin về số lượng được hiển thị ở mục nhiệm vụ
-code|Code có ghi chỗ nhập tại nhà: marid1, marid2, marid3, marid4, marid5, marid6, denbu, 3k
+code|Code có ghi chỗ nhập tại nhà: marid1, marid2, marid3, marid4, marid5, marid6, denbu, 3k. Code 30 tháng 4 tương tác bài viết ở ghim
 coin, tỉ lệ nạp, bảng giá|10k vnd = 10k coin. 10k coin = 20k hoa bỉ ngạn. 60k coin = 10k nhẫn quý tộc. 10k coin = 10 ngân phiếu. Đổi coin tại Npc Gohan Nguyệt Nhật ở đảo Kame. Các thông tin về số lượng được hiển thị ở mục nhiệm vụ
 auto đập đồ, đập đồ|mod vip, vudang: chat “dapdo”. Mod TestFlight vào trong mục menu có chỗ mở chế độ đập đồ. => Sau đó bỏ đồ cần đập vào => ấn vào đồ chọn số sao cần đập
 đậu bư, đậu bư béo, bư 21h, buu 21h, thần linh kích hoạt, tlkh, tl kích hoạt|Săn boss bư 21h ở đại hội võ thuật để đổi set thần linh kích hoạt ở shop ayaka tại đảo kame
@@ -45,7 +45,7 @@ chào, hello, bot, alo, chat|Chào bạn, mình là chat bot tự động. Bạn
 tốc độ, cheat |lệnh tốc độ game: cheat x, cheat_x , tdx , speedx , speed_x (x là số nhé). Một số mod thì bạn ấn vào logo vào phần menu để chỉnh nhé
 tải, game, link tải|http://ngocrongmarid.online/
 tf, test flight, testflight|https://testflight.apple.com/join/fsX9sj4Z
-sự kiện, event, sk|chi tiết sự kiện tại:http://ngocrongmarid.online/bai-viet?id=205
+sự kiện, event, sk|chi tiết sự kiện tại:http://ngocrongmarid.online/bai-viet?id=208
 auto chỉ số, auto cs|Vào mục menu của các mod có auto chỉ số nha.
 săn boss, thông báo boss, tb|chat "sb" để bật thông báo. Đối với mod koi thì bạn ấn vào biểu tưởng cạnh thanh máu, sau đó chọn đồ họa rồi chọn hiển thị tb
 thiên sứ, hủy diệt, ts, hd| Tất cả trang bị trong game đều tạo bởi hạt mít ở đảo kame, anh em nhấp vào chế tạo trang bị sau đó chọn loại trang bị để xem hướng dẫn cách tạo. Các trang bị của game có chi tiết trong bài viết tại website: http://ngocrongmarid.online/bai-viet?id=61
@@ -70,3 +70,4 @@ mất, lỗi|  Các vật phẩm: nhẫn quý tộc, hoa bỉ ngạn, ngân phi�
 Thức ăn, đồ ăn| Set thần linh up quái ở cold là up rơi nhé
 Chiến Thần| Thông tin Siêu Đệ Chiến Thần chi tiết tại: http://ngocrongmarid.online/bai-viet?id=64
 IP server: marid:14.225.202.16:14445:0,0,0   vudang: thêm |225
+Khuyễn mãi, km|Chi tiết khuyến mãi: http://ngocrongmarid.online/bai-viet?id=207
