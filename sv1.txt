@@ -34,7 +34,7 @@ trang bị, nâng skh, thiên sứ, hủy diệt, hd, dhd, thiên tôn, lính, t
 cơ chế|Cơ chế game tại bài viết này: http://ngocrongmarid.online/bai-viet?id=61
 trùng sinh, chuyển sinh, nước mắt|Nguyên liệu up ở địa ngục + nước mắt mạnh bà ( săn boss mạnh bà ở tầng 6 địa ngục ) Để chế tạo canh mạnh bà ( có thể mua 300k Hoa Bỉ Ngạn ). Sau khi Trùng Sinh sức mạnh reset về 2k chỉ số tăng thêm 5% ( 840k HP KI, 42k SD ). Lưu ý: không mất đồ. Chỉ đc thực hiện 1 lần
 tiên môn, mặt trăng, jiren, săn bư, đệ bư|Đến gặp unknown đầu map đảo kame nhé
-up, sức mạnh|mua găng tấn công mạnh, up lên 150m r vào ngũ hành sơn ( Up ở ngoài trước, khi sức đánh đủ lớn thì hãy vào ngũ hành sơn ). 100 tỷ vào tiên môn hoặc mặt trăng up. 300 tỷ vào địa ngục. Nhớ găng tăng sức đánh cao + full set tnsm.. chat "adau" để auto đậu cho đệ
+up, sức mạnh|mua găng tấn công mạnh, up lên 150m r vào ngũ hành sơn ( Up ở ngoài trước, khi sức đánh đủ lớn thì hãy vào ngũ hành sơn ). 100 tỷ vào tiên môn hoặc mặt trăng up. 300 tỷ vào địa ngục. Nhớ găng tăng sức đánh cao + full set tnsm. Mua găng ở các shop đầu làng phù hợp với mốc sức mạnh
 nâng cấp| nâng cấp bông tai tại bà hạt mít ở vách núi
 mvbt, mvbt, đá xanh, đá đỏ, đá tím, bông tai, mảnh vỡ, btc2, btc3|up các nguyên liệu mvbt, mvbt, đá xanh, đá đỏ, đá tím nâng btc2, btc3 ở các map nappa, fide. Nâng cấp tại bà hạt mít ở vách núi
 20k|mốc nạp 20k nhận ct bư noel 60% SD, 120% HP, KI Vĩnh Viễn
@@ -72,3 +72,4 @@ Chiến Thần| Thông tin Siêu Đệ Chiến Thần chi tiết tại: http://n
 IP server: marid:14.225.202.16:14445:0,0,0   vudang: thêm |225
 Khuyễn mãi, km|Chi tiết khuyến mãi: http://ngocrongmarid.online/bai-viet?id=207
 skill, hiển thị|Để hiện thị ( load ô skill ) như mong muốn, bạn cần gắn skill sau đó thoát game vào lại là được nhé
+yêu cầu, không đủ, mang đồ| yêu cầu sức mạnh mang set kích hoạt vip là 10 tỏi
