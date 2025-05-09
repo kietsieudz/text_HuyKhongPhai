@@ -73,3 +73,4 @@ IP server: marid:14.225.202.16:14445:0,0,0   vudang: thêm |225
 Khuyễn mãi, km|Chi tiết khuyến mãi: http://ngocrongmarid.online/bai-viet?id=207
 skill, hiển thị|Để hiện thị ( load ô skill ) như mong muốn, bạn cần gắn skill sau đó thoát game vào lại là được nhé
 yêu cầu, không đủ, mang đồ| yêu cầu sức mạnh mang set kích hoạt vip là 10 tỏi
+rs, reset, rs nv| Nhiệm vụ ngày sẽ được reset lại vào lúc 0h, lưu ý: điều kiện là bạn phải trả nhiệm vụ trước 0h
