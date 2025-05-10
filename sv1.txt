@@ -44,7 +44,7 @@ ad, admin| Có việc gì thì ib riêng cho ad nhe
 chào, hello, bot, alo, chat|Chào bạn, mình là chat bot tự động. Bạn cần thông tin gì nò
 tốc độ, cheat |lệnh tốc độ game: cheat x, cheat_x , tdx , speedx , speed_x (x là số nhé). Một số mod thì bạn ấn vào logo vào phần menu để chỉnh nhé
 tải, game, link tải|http://ngocrongmarid.online/
-tf, test flight, testflight|https://testflight.apple.com/join/fsX9sj4Z
+tf, test flight, testflight|https://testflight.apple.com/join/RtKrzVWp
 sự kiện, event, sk|chi tiết sự kiện tại:http://ngocrongmarid.online/bai-viet?id=208
 auto chỉ số, auto cs|Vào mục menu của các mod có auto chỉ số nha.
 săn boss, thông báo boss, tb|chat "sb" để bật thông báo. Đối với mod koi thì bạn ấn vào biểu tưởng cạnh thanh máu, sau đó chọn đồ họa rồi chọn hiển thị tb
