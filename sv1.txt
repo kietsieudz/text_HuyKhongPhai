@@ -1,4 +1,5 @@
 đăng kí, đk tk| Tài khoản và mật khẩu phải từ 7 kí tự trở lên. Ví dụ: tk: account123 mk: password468
+đk| Tài khoản và mật khẩu phải từ 7 kí tự trở lên. Ví dụ: tk: account123 mk: password468
 đậu| chat "adau" để auto đậu cho đệ
 siêu cấp, cấp 2| mở cskb, săn boss tàu paypay, đánh nhân bản
 item thường, cn, bh, gx| mở cskb
