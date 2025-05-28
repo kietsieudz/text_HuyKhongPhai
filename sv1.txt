@@ -14,6 +14,12 @@ code|Code có ghi chỗ nhập tại nhà: marid1, marid2, marid3, marid4, marid
 coin, tỉ lệ nạp, bảng giá|10k vnd = 10k coin. 10k coin = 20k hoa bỉ ngạn. 60k coin = 10k nhẫn quý tộc. 10k coin = 10 ngân phiếu. Đổi coin tại Npc Gohan Nguyệt Nhật ở đảo Kame. Các thông tin về số lượng được hiển thị ở mục nhiệm vụ
 auto đập đồ, đập đồ|mod vip, vudang: chat “dapdo”. Mod TestFlight vào trong mục menu có chỗ mở chế độ đập đồ. => Sau đó bỏ đồ cần đập vào => ấn vào đồ chọn số sao cần đập
 đậu bư, đậu bư béo, bư 21h, buu 21h, thần linh kích hoạt, tlkh, tl kích hoạt|Săn boss bư 21h ở đại hội võ thuật để đổi set thần linh kích hoạt ở shop ayaka tại đảo kame
+chiến thần, ct| Chi tiết siêu đệ chiến thần tại: http://ngocrongmarid.online/bai-viet?id=3
+chân mệnh| Chi tiết nâng cấp chân mệnh tại: http://ngocrongmarid.online/bai-viet?id=4
+Quà top, top nạp| Chi tiết quà top nạp và cửa hàng top: http://ngocrongmarid.online/bai-viet?id=5
+Hướng dẫn| Chi tiết hướng dẫn nạp: http://ngocrongmarid.online/bai-viet?id=6
+vòng quay, vé quay| Chi tiết vòng quay thượng đế: http://ngocrongmarid.online/bai-viet?id=7
+boss| Chi tiết về boss trong game: http://ngocrongmarid.online/bai-viet?id=9
 đệ tử, loại đệ, đệ, săn đệ, dt, đt|Đệ bư tăng 30% cs khi hợp thể ( đến unknown đầu map đảo kame để săn ). Đệ gohan tăng 50% chỉ số khi hợp thể ( Săn bư 12h trưa ở đại hội võ thuật hoặc mua shop santa 50k). Đệ tử black 75% [ 501b + 35% = 110% ] chỉ số của đệ khi hợp thể ( cần BTC4 - Khuyên VS) , săn super broly ở tapion 21h15 thành phố vegeta
 ước rồng, đổi skill, gọi rồng, rồng thần|Ra đầu làng có Npc thượng đế để ước rồng, up đệ lên 1ty5 rồi ra đầu làng ước rồng đổi skill 2-3, 3-4
 thần linh, dtl, tl|đồ thần linh có thể up cold, săn boss bên tương lai, boss apk
@@ -28,13 +34,13 @@ eye, eyes, nâng cấp bội, ngọc bội|Ngọc bội mua ở shop Vip tại c
 ngọc hóa|Chức năng ngọc hoá ( có thể hiểu tương tự pha lê hoá, độc lập với chức năng pha lê hoá ), sau khi trang bị được ngọc hoá bạn sẽ ép ngọc vào trang bị để tăng thêm chỉ số. Ngọc hoá trang bị tại Bà Hạt Mít. Viên ngọc kiếm ở boss coler hoặc mua ở shop santa
 ngân phiếu|ngân phiếu chỉ quy đổi từ coin nạp
 siêu cấp, nrsc|Điều ước ngọc rồng siêu cấp: nhẫn quý tộc, hoa bỉ ngạn, đổi skill, cải trang vip hơn tất cả shop 7-14 ngày
-nhiệm vụ, nv, giờ|Giờ nhiệm vụ 5-6h, 11-13h và 20-21h cho nv từ 19 đến 30. Bỏ qua nhiệm vụ bằng coin ở Quy Lão Kame. LƯU Ý: Giờ nhiệm vụ chỉ cấm người những bạn nào không thuộc nhiệm vụ vào được khu. Thế nên, nhiệm vụ đông người làm hay có vip là chuyện bình thường
+nhiệm vụ, nv, giờ, hỗ trợ|Giờ nhiệm vụ 5-6h, 11-13h và 20-21h cho nv từ 19 đến 30. Bỏ qua nhiệm vụ bằng coin ở Quy Lão Kame. LƯU Ý: Giờ nhiệm vụ chỉ cấm người những bạn nào không thuộc nhiệm vụ vào được khu. Thế nên, nhiệm vụ đông người làm hay có vip là chuyện bình thường
 nạp, donate, thẻ, card|Lên web http://ngocrongmarid.online, đăng nhập vào sẽ có mục nạp thẻ. Lưu ý: Ưu tiên nạp thông qua banking, nếu muốn nạp thẻ cào thì: vina, viettel
 sv, server| Các bản mod chọn SV1
 không vào, kẹt, xoay|Ai bị kẹt acc thì lên web thoát kẹt nhé : http://ngocrongmarid.online/thoat-ket
 hướng dẫn, thông tin, cơ bản|Vào phần chức năng => mục thứ 2, đọc một số thông tin cơ bản của game
-trang bị, nâng skh, thiên sứ, hủy diệt, hd, dhd, thiên tôn, lính, tướng|Tất cả trang bị trong game đều tạo bởi hạt mít ở đảo kame, anh em nhấp vào chế tạo trang bị sau đó chọn loại trang bị để xem hướng dẫn cách tạo. Các trang bị của game có chi tiết trong bài viết tại website: http://ngocrongmarid.online/bai-viet?id=61
-cơ chế|Cơ chế game tại bài viết này: http://ngocrongmarid.online/bai-viet?id=61
+trang bị, nâng skh, thiên sứ, hủy diệt, hd, dhd, thiên tôn, lính, tướng, thần tiên|Tất cả trang bị trong game đều tạo bởi hạt mít ở đảo kame, anh em nhấp vào chế tạo trang bị sau đó chọn loại trang bị để xem hướng dẫn cách tạo. Các trang bị của game có chi tiết trong bài viết tại website: http://ngocrongmarid.online/bai-viet?id=2
+cơ chế|Cơ chế game tại bài viết này: http://ngocrongmarid.online/bai-viet?id=2
 trùng sinh, chuyển sinh, nước mắt|Nguyên liệu up ở địa ngục + nước mắt mạnh bà ( săn boss mạnh bà ở tầng 6 địa ngục ) Để chế tạo canh mạnh bà ( có thể mua 300k Hoa Bỉ Ngạn ). Sau khi Trùng Sinh sức mạnh reset về 2k chỉ số tăng thêm 5% ( 840k HP KI, 42k SD ). Lưu ý: không mất đồ. Chỉ đc thực hiện 1 lần
 tiên môn, mặt trăng, jiren, săn bư, đệ bư|Đến gặp unknown đầu map đảo kame nhé
 up, sức mạnh|mua găng tấn công mạnh, up lên 150m r vào ngũ hành sơn ( Up ở ngoài trước, khi sức đánh đủ lớn thì hãy vào ngũ hành sơn ). 100 tỷ vào tiên môn hoặc mặt trăng up. 300 tỷ vào địa ngục. Nhớ găng tăng sức đánh cao + full set tnsm. Mua găng ở các shop đầu làng phù hợp với mốc sức mạnh
@@ -49,10 +55,10 @@ chào, hello, bot, alo, chat|Chào bạn, mình là chat bot tự động. Bạn
 tốc độ, cheat |lệnh tốc độ game: cheat x, cheat_x , tdx , speedx , speed_x (x là số nhé). Một số mod thì bạn ấn vào logo vào phần menu để chỉnh nhé
 tải, game, link tải|http://ngocrongmarid.online/
 tf, test flight, testflight|https://testflight.apple.com/join/RtKrzVWp
-sự kiện, event, sk|chi tiết sự kiện tại:http://ngocrongmarid.online/bai-viet?id=208
+sự kiện, event, sk|chi tiết sự kiện tại:http://ngocrongmarid.online/bai-viet?id=10
 auto chỉ số, auto cs|Vào mục menu của các mod có auto chỉ số nha.
 săn boss, thông báo boss, tb|chat "sb" để bật thông báo. Đối với mod koi thì bạn ấn vào biểu tưởng cạnh thanh máu, sau đó chọn đồ họa rồi chọn hiển thị tb
-thiên sứ, hủy diệt, ts, hd| Tất cả trang bị trong game đều tạo bởi hạt mít ở đảo kame, anh em nhấp vào chế tạo trang bị sau đó chọn loại trang bị để xem hướng dẫn cách tạo. Các trang bị của game có chi tiết trong bài viết tại website: http://ngocrongmarid.online/bai-viet?id=61
+thiên sứ, hủy diệt, ts, hd| Tất cả trang bị trong game đều tạo bởi hạt mít ở đảo kame, anh em nhấp vào chế tạo trang bị sau đó chọn loại trang bị để xem hướng dẫn cách tạo. Các trang bị của game có chi tiết trong bài viết tại website: http://ngocrongmarid.online/bai-viet?id=2
 lag, vô game, vào game, xoay, quay, mờ, nhòa, đứng, lang|Xóa dữ liệu. Nhòe màn hình thì xóa dữ liệu rồi vào lại. Lag thì quay video cụ thể lỗi như nào rồi gửi vào box để ae hướng dẫn fix nhé. Ai bị kẹt acc thì lên web thoát kẹt nhé : http://ngocrongmarid.online/thoat-ket
 mod, lệnh| Chức năng mod: phần chức mod mod tại mục chức năng của bản thân. Ngoài ra bạn có thể mở Menu mod bằng cách ấn vào logo trên màn hình ( hoặc nút tam giác bên phải màn hình ) - Phím X đổi với PC để bật
 ngọc rồng, nro|Ngọc rồng được free tại code, nhập tại nhà. Ngoài ra còn có thể săn các loại boss để kiếm thêm. Ra đầu làng có Npc thượng đế để ước rồng, up đệ lên 1ty5 rồi ra đầu làng ước rồng đổi skill 2-3, 3-4. Ngoài ra ngọc rồng có thể kiếm từ bằng cách up quái, săn boss,....
@@ -72,9 +78,7 @@ ngục tù| hành tinh ngục tù ( chat map để di chuyển nhanh) . thần �
 Hồng ngọc, hn, hngoc| Hồng ngọc nhận free ở nhà
 mất, lỗi|  Các vật phẩm: nhẫn quý tộc, hoa bỉ ngạn, ngân phiếu sẽ chuyển thành điểm như vàng, ngọc và được hiền thị ở mục nhiệm vụ
 Thức ăn, đồ ăn| Set thần linh up quái ở cold là up rơi nhé
-Chiến Thần| Thông tin Siêu Đệ Chiến Thần chi tiết tại: http://ngocrongmarid.online/bai-viet?id=64
 IP server: marid:14.225.202.16:14445:0,0,0   vudang: thêm |225
-Khuyễn mãi, km|Chi tiết khuyến mãi: http://ngocrongmarid.online/bai-viet?id=207
 skill, hiển thị|Để hiện thị ( load ô skill ) như mong muốn, bạn cần gắn skill sau đó thoát game vào lại là được nhé
 yêu cầu, không đủ, mang đồ| yêu cầu sức mạnh mang set kích hoạt vip là 10 tỏi
 rs, reset, rs nv| Nhiệm vụ ngày sẽ được reset lại vào lúc 0h, lưu ý: điều kiện là bạn phải trả nhiệm vụ trước 0h
