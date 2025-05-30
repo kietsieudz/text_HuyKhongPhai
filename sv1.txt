@@ -6,7 +6,11 @@ siêu cấp, cấp 2| mở cskb, săn boss tàu paypay, đánh nhân bản
 item thường, cn, bh, gx| mở cskb, chi tiết: https://ngocrongmarid.online/bai-viet?id=2
 dame| Server dame trung nhé
 thần tiên, than tien| shop ayaka cạnh bà hạt mít ở đảo kame bán 30k nhẫn quý tộc, hoặc mua shop santa 150 ngân phiếu
-tải, down, tai| Bản jar: http://ngocrongmarid.online/download/java . Bản APK: http://ngocrongmarid.online/download/android . Bản PC: http://ngocrongmarid.online/download/windows . Bản IOS, TF: http://ngocrongmarid.online/download/iphone
+tải, down, tai|Đầy các bản apk, jar, pc, tf tại: http://ngocrongmarid.online. Bản muốn tải bản nào ?
+jar, java| Bản jar: http://ngocrongmarid.online/download/java.
+apk,adr, androi|Bản APK: http://ngocrongmarid.online/download/android
+pc, máy tính, window|Bản PC: http://ngocrongmarid.online/download/windows
+iphone, ios, tf, testfligt, test flight| Bản IOS, TF: http://ngocrongmarid.online/download/iphone
 open, test, op| Server Dame TRUNG MỚI OPEN free vàng, ngọc xanh, hồng ngọc và nhiều nhiều phần quà từ giftcode khác
 ngu, ngáo, bot xịn|Chào bạn, mình là chat bot tự động để hỗ trợ các thắc mắc của bạn. 
 hoa, hoa bỉ ngạn, bỉ ngạn|Hoa bỉ ngạn có thể tìm bằng cách up quái ở cold, phân rã đồ thần ở hạt mít đảo kame, săn boss. Các thông tin về số lượng điểm được hiển thị ở mục nhiệm vụ.  Chi tiết: https://ngocrongmarid.online/bai-viet?id=2.
@@ -55,7 +59,6 @@ ad, admin| Có việc gì thì ib riêng cho ad nhe
 chào, hello, bot, alo, chat|Chào bạn, mình là chat bot tự động. Bạn cần thông tin gì nò
 tốc độ, cheat |lệnh tốc độ game: cheat x, cheat_x , tdx , speedx , speed_x (x là số nhé). Một số mod thì bạn ấn vào logo vào phần menu để chỉnh nhé
 tải, game, link tải|http://ngocrongmarid.online/
-tf, test flight, testflight|https://testflight.apple.com/join/RtKrzVWp
 sự kiện, event, sk|chi tiết sự kiện tại:http://ngocrongmarid.online/bai-viet?id=10
 auto chỉ số, auto cs|Vào mục menu của các mod có auto chỉ số nha.
 săn boss, thông báo boss, tb|chat "sb" để bật thông báo. Đối với mod koi thì bạn ấn vào biểu tưởng cạnh thanh máu, sau đó chọn đồ họa rồi chọn hiển thị tb
@@ -83,4 +86,4 @@ IP server: marid:14.225.202.16:14445:0,0,0   vudang: thêm |225
 skill, hiển thị|Để hiện thị ( load ô skill ) như mong muốn, bạn cần gắn skill sau đó thoát game vào lại là được nhé
 yêu cầu, không đủ, mang đồ| yêu cầu sức mạnh mang set kích hoạt vip là 10 tỏi
 rs, reset, rs nv| Nhiệm vụ ngày sẽ được reset lại vào lúc 0h, lưu ý: điều kiện là bạn phải trả nhiệm vụ trước 0h
-học skill, skill 9, sk9, ma phong ba, super kame| Đi doanh trại kiếm x999 bí kíp để học tại Thiên Sứ Whis ở Hành tinh Kaio nhé
+học skill, skill 9, sk9, ma phong ba, super, kame, sách| Đi doanh trại kiếm x999 sách bí kíp để học tại Thiên Sứ Whis ở Hành tinh Kaio nhé
