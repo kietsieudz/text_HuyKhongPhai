@@ -50,11 +50,11 @@ trùng sinh, chuyển sinh, nước mắt|Nguyên liệu up ở địa ngục + 
 tiên môn, mặt trăng, jiren, săn bư, đệ bư|Đến gặp unknown đầu map đảo kame nhé
 up, sức mạnh|mua găng tấn công mạnh, up lên 150m r vào ngũ hành sơn ( Up ở ngoài trước, khi sức đánh đủ lớn thì hãy vào ngũ hành sơn ). 100 tỷ vào tiên môn hoặc mặt trăng up. 300 tỷ vào địa ngục hoặc tiên môn, mặt trăng. Nhớ găng tăng sức đánh cao + full set tnsm. Mua găng ở các shop đầu làng phù hợp với mốc sức mạnh
 nâng cấp| nâng cấp bông tai tại bà hạt mít ở vách núi
-bt, sd nhanh,btc1, btc2, btc3, btc4, khuyên vô song| Để sử dụng bông tai nhanh bằng phím tắt hãy mua thêm bt1 để ở hành trang thì sẽ ấn sử dụng nhanh cho các loại bông tai khác được nhé
+bt, sd nhanh,btc1, btc2, btc3, btc4, khuyên, vs, vô song| Để sử dụng bông tai nhanh bằng phím tắt hãy mua thêm bt1 để ở hành trang thì sẽ ấn sử dụng nhanh cho các loại bông tai khác được nhé
 mvbt, mvbt, đá xanh, đá đỏ, đá tím, bông tai, mảnh vỡ, btc2, btc3, nguyên liệu, bt2, bt3|up các nguyên liệu mvbt, mvbt, đá xanh, đá đỏ, đá tím nâng btc2, btc3 ở các map nappa, fide. Nâng cấp bông tai tại bà hạt mít ở vách núi
 20k, mốc nạp|Mốc nạp 20k nhận ct bư noel 60% SD, 120% HP, KI Vĩnh Viễn. Các mốc nạp khác đăng nhập vào web để xem chi tiết
 mua acc, bán acc|Mua, bán acc nhớ liên hệ admin Ngọc Rồng Marid để gdtg tránh bị lừa đảo
-Btc4, c4| BTC4 ( khuyên vô song ) Cần săn boss và tích lũy hoa bỉ ngạn để mua trong shop. BTC4 Có thể pha lê hóa max 5s và ngọc hóa 10 level
+Btc4, c4, khuyên, vs, vô song| BTC4 ( khuyên vô song ) Cần săn boss và tích lũy hoa bỉ ngạn để mua trong shop. BTC4 Có thể pha lê hóa max 5s và ngọc hóa 10 level
 ad, admin| Có việc gì thì ib riêng cho ad nhe
 chào, hello, bot, alo, chat|Chào bạn, mình là chat bot tự động. Bạn cần thông tin gì nò
 tốc độ, cheat |lệnh tốc độ game: cheat x, cheat_x , tdx , speedx , speed_x (x là số nhé). Một số mod thì bạn ấn vào logo vào phần menu để chỉnh nhé
