@@ -4,6 +4,8 @@ mượn, tiền, giả, mạo|DẠO NÀY RẤT NHIỀU THÀNH PHẦN ĐỔI TÊN
 phiếu giảm giá, pgg| phiếu giảm giá: săn các boss doraemon, phần quà mốc nạp
 đk| Tài khoản và mật khẩu phải từ 7 kí tự trở lên. Ví dụ: tk: account123 mk: password468
 đậu| chat "adau" để auto đậu cho đệ
+ip, acc| Giới hạn là 1 IP ( wifi - 4G) là 3 tab ( tức online tối đa 3 acc ) nhé, nên acc thứ 4 sẽ không vào được 
+trả, bò mộng| Hoàn thành phép tính ( ví dụ: 1 + 1 thì nhập: 2 ) để vượt capcha khi trả nhiệm vụ bò mộng
 siêu cấp, cấp 2, c2| Item thường mở cskb. Item siêu cấp mở cskb, săn boss tàu paypay, đánh nhân bản
 đá nâng cấp, thạch anh, lục bảo, ruby, titan, tat, lb, rb| Các loại đá nâng cấp up ở mọi quái là có nhé. Nâng đồ ở bà hạt mít đảo kame
 item, item thường, cn, bh, gx| Item thường mở cskb. Item siêu cấp mở cskb, săn boss tàu paypay, đánh nhân bản
