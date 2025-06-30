@@ -12,7 +12,7 @@ item, item thường, cn, bh, gx| Item thường mở cskb. Item siêu cấp m�
 dame| Server dame trung nhé
 thần tiên, than tien| shop ayaka cạnh bà hạt mít ở đảo kame bán 30k nhẫn quý tộc, hoặc mua shop santa 150 ngân phiếu
 tải, down, tai|Đầy các bản apk, jar, pc, tf tại: http://ngocrongmarid.com. Bản muốn tải bản nào ?
-jar, java| Bản jar: http://ngocrongmarid.com/download/java.
+jar, java| Bản jar: http://ngocrongmarid.com/download/java. Nếu lần đầu không vào được bản jar thì bạn hãy thực hiện thao tác tắt mở game liên tục nhiều lần là được nhé
 apk,adr, androi|Bản APK: http://ngocrongmarid.com/download/android
 pc, máy tính, window|Bản PC: http://ngocrongmarid.com/download/windows
 iphone, ios, tf, testfligt, test flight| Bản IOS, TF: http://ngocrongmarid.com/download/iphone
