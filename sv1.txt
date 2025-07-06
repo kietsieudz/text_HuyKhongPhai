@@ -6,6 +6,7 @@ mượn, tiền, giả, mạo|DẠO NÀY RẤT NHIỀU THÀNH PHẦN ĐỔI TÊN
 phiếu giảm giá, pgg| phiếu giảm giá: săn các boss doraemon, phần quà mốc nạp
 đk| Tài khoản và mật khẩu phải từ 7 kí tự trở lên. Ví dụ: tk: account123 mk: password468
 đậu| chat "adau" để auto đậu cho đệ
+thánh địa, tây, bắc| Đến Quy Lão Kame vào => Chức Năng Bang Hội => Lãnh Địa Bang hội => Di chuyển đến Tây, Bắc Thánh Địa
 Test dame, khu test|  Test dame lên Robot ở vách núi aru, bật cờ lên nhé!
 boss, sát thương, máu, dame| HP thật của một số Boss sẽ hiển thị khi Boss chat. Một số boss sẽ có giáp cao, giới hạn sát thương nên sát thương bạn gây ra cho Boss sẽ bị giảm.
 nổ, tự sát, boom, bom| skill tự sát ( nổ, boom ) tính cả skill khỉ và huýt sao, sát thương gây lên Boss chia 2. Ví dụ máu 1 tỉ thì nổ 500tr.
