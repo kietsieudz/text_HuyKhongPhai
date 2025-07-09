@@ -26,7 +26,7 @@ apk,adr, androi|Bản APK: http://ngocrongmarid.com/download/android
 pc, máy tính, window|Bản PC: http://ngocrongmarid.com/download/windows
 iphone, ios, tf, testfligt, test flight| Bản IOS, TF: http://ngocrongmarid.com/download/iphone
 open, test, op| Server Dame TRUNG MỚI OPEN free vàng, ngọc xanh, hồng ngọc và nhiều nhiều phần quà từ giftcode khác
-ngu, ngáo, bot xịn|Chào bạn, mình là chat bot tự động để hỗ trợ các thắc mắc của bạn. 
+ngu, ngáo, bot xịn, chào, hello, bot, alo, chat|Chào bạn, mình là bot chat tự động để hỗ trợ các thắc mắc của bạn trong group chat này. Có việc gì quan trọng vui lòng ib key vàng nhé
 hoa, hoa bỉ ngạn, bỉ ngạn|Hoa bỉ ngạn có thể tìm bằng cách up quái ở cold, phân rã đồ thần ở hạt mít đảo kame, săn boss. Các thông tin về số lượng điểm được hiển thị ở mục nhiệm vụ.  Chi tiết: https://ngocrongmarid.com/bai-viet?id=2.
 nhẫn, nhẫn quý tộc, vòng vàng|nhẫn quý tộc làm nhiệm vụ ngày ở bò mộng. Hàng tháng sẽ có các sự kiện để ae kiếm nhẫn cũng như tranh top để nhận quà là nhẫn quý tộc. Các thông tin về số lượng điểm được hiển thị ở mục nhiệm vụ.  Chi tiết: https://ngocrongmarid.com/bai-viet?id=2.
 code|Code có ghi chỗ nhập tại nhà: marid1, marid2, marid3, marid4, marid5, marid6, denbu, 3k, 30thang4marid( xe tăng, cờ, danh hiệu)
@@ -69,8 +69,7 @@ mvbt, mvbt, đá xanh, đá đỏ, đá tím, bông tai, mảnh vỡ, btc2, btc3
 20k, mốc nạp|Mốc nạp 20k nhận ct bư noel 60% SD, 120% HP, KI Vĩnh Viễn. Các mốc nạp khác đăng nhập vào web để xem chi tiết
 mua acc, bán acc|Mua, bán acc nhớ liên hệ admin Ngọc Rồng Marid để gdtg tránh bị lừa đảo
 Btc4, c4, khuyên, vs, vô song| BTC4 ( khuyên vô song ) Cần săn boss và tích lũy hoa bỉ ngạn để mua trong shop. BTC4 Có thể pha lê hóa max 5s và ngọc hóa 10 level
-ad, admin| Có việc gì thì ib riêng cho ad nhe
-chào, hello, bot, alo, chat|Chào bạn, mình là chat bot tự động. Bạn cần thông tin gì nò
+ad, admin| Có việc gì thì ib riêng cho admin - key vàng nhé ( Mình là bot chỉ hỗ trợ trong box chat thôi )
 tốc độ, cheat |lệnh tốc độ game: cheat x, cheat_x , tdx , speedx , speed_x (x là số nhé). Một số mod thì bạn ấn vào logo vào phần menu để chỉnh nhé
 tải, game, link tải|http://ngocrongmarid.com/
 sự kiện, event, sk, xô cá, hè|chi tiết sự kiện hè tại:http://ngocrongmarid.com/bai-viet?id=12
