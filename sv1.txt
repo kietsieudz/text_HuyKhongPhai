@@ -25,7 +25,6 @@ nổ, tự sát, boom, bom|🔹Skill tự sát (nổ, boom) tính cả skill kh�
 nổ, tự sát, boom, bom|🔹Sát thương gây lên Boss chia 2. Ví dụ máu 1 tỉ thì nổ 500tr  
 lz, laze|🔹Skill laze sẽ tính theo sát thương = KI * 1.3  
 lz, laze|🔹Ví dụ KI 1 tỉ thì laze 1,3 tỉ  
-sát thương, máu, nổ, tự sát, lz, laze, đấm, dame|🔹  
 ip, acc, btri, bảo trì, không vào, xoay|🔹Giới hạn là 1 IP (wifi - 4G) là 3 tab (tức online tối đa 3 acc) nhé  
 ip, acc, btri, bảo trì, không vào, xoay|🔹Acc thứ 4 sẽ không vào được  
 trả nv, bò mộng,nv ngày, nhiệm vụ ngày|🔹Hoàn thành phép tính (ví dụ: 1 + 1 thì nhập: 2) để vượt captcha khi trả nhiệm vụ bò mộng  
