@@ -16,7 +16,7 @@ bật ts, ts quái, tàn sát|🔹Để chỉ sử dụng những skill bạn mu
 thánh địa|🔹Đến Quy Lão Kame vào => Chức Năng Bang Hội => Lãnh Địa Bang hội => Di chuyển đến Tây, Bắc Thánh Địa  
 Test dame, khu test, test kame, test sức đánh, test hp, test skill|🔹Test dame lên Robot ở vách núi aru, bật cờ lên nhé!  
 hp boss, sát thương, máu boss, dame lên boss|🔹HP thật của một số Boss sẽ hiển thị khi Boss chat  
-hp boss, sát thương, máu boss, pem boss, nổ boss, lên boss|🔹Một số boss sẽ có giáp cao, giới hạn sát thương nên sát thương bạn gây ra cho Boss sẽ bị giảm  
+hp boss, sát thương, máu boss, pem boss, nổ boss, lên boss|🔹Một số boss sẽ có giáp cao, giới hạn sát thương làm nhiệm vụ nên sát thương bạn gây ra cho Boss sẽ bị giảm  
 chiêu nổ, tự sát, skill boom, skill nổ, skill nổ, nổ lên boss|🔹Skill tự sát (nổ, boom) tính cả skill khỉ và huýt sáo  
 chiêu nổ, tự sát, skill boom, skill nổ, skill nổ, nổ lên boss|🔹Sát thương gây lên Boss chia 2. Ví dụ máu 1 tỉ thì nổ 500tr  
 laze|🔹Skill laze sẽ tính theo sát thương = KI * 1.3  
