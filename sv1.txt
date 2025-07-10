@@ -63,6 +63,7 @@ jar, java|🔹Hướng dẫn Trên máy tính:  🔹Bước 1: Xoá dữ liệu 
 kuku|🔹Tới thành phố Vegeta gặp Cui để tìm Kuku, Mập Đầu Đinh, Rambo 🔹Nếu NPC chat “Chết rồi” thì boss đã chết, đứng đợi spawn lượt mới  🔹Boss sẽ xuất hiện ở Nam Kame  
 menu, mod, lệnh|🔹ở Menu mod bằng cách: Vào Chức năng mod nằm trong mục chức năng của bản thân  -  ấn logo trên màn hình hoặc nút tam giác bên phải màn hình  
 menu, mod, lệnh|🔹PC bật bằng phím "m" hoặc phím "x"🔹Mod Koi: ấn biểu tượng cạnh thanh máu để mở  
+menu, mod, lệnh|🔹Một số lệnh cơ bản là như nhau như: ts, ak,...
 giới hạn, mở giới hạn, không lên sức mạnh, không cộng|🔹Mở giới hạn sức mạnh tại Quốc Vương ở vách núi Mori nhé  
 nâng cấp bội, ngọc bội|🔹Ngọc bội mua ở shop VIP tại Santa  🔹Nâng cấp lên eyes tại NPC đầu map đảo Kame => Đào Hoa Đảo => NPC nâng cấp  🔹Lưu ý: Đọc kỹ hướng dẫn NPC trước khi thao tác  
 ngọc hóa|🔹Ngọc hóa là chức năng độc lập với pha lê hóa, giúp ép ngọc vào trang bị tăng chỉ số  🔹Ngọc hóa trang bị tại Bà Hạt Mít  🔹Ngọc kiếm ở boss Coler hoặc mua ở shop Santa  
@@ -91,8 +92,7 @@ mua acc, bán acc|🔹Mua, bán acc nhớ liên hệ admin Ngọc Rồng Marid �
 btc4, bt4, khuyên vs, vô song|🔹BTC4 (Khuyên Vô Song) cần săn boss và tích lũy Hoa Bỉ Ngạn để mua trong shop  
 btc4, bt4, khuyên vs, vô song|🔹BTC4 có thể pha lê hóa max 5s và ngọc hóa 10 level  
 ad, admin|🔹Có việc gì thì ib riêng cho admin - key vàng nhé (Mình là bot chỉ hỗ trợ trong box chat thôi)  
-tốc độ, cheat|🔹Lệnh tốc độ game: cheat x, cheat_x, tdx, speedx, speed_x (x là số nhé)  
-tốc độ, cheat|🔹Một số mod thì bạn ấn vào logo vào phần menu để chỉnh  
+tốc độ, cheat, speed|🔹Lệnh tốc độ game: cheat x, cheat_x, tdx, speedx, speed_x (x là số nhé)  🔹Một số mod thì bạn ấn vào Logo vào phần Menu để chỉnh  
 sự kiện, event, sk, kiếm xô cá, tìm xô cá|🔹Chi tiết sự kiện hè tại: http://ngocrongmarid.com/bai-viet?id=12  
 auto chỉ số, auto cs|🔹Vào mục menu của các mod có auto chỉ số nha  
 săn boss, thông báo, tb boss|🔹Chat "sb" để bật thông báo hoặc vào menu - chức năng để mở nhé🔹Mod Koi thì ấn biểu tượng cạnh thanh máu → đồ họa → hiển thị TB  
