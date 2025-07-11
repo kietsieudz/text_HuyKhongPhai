@@ -67,7 +67,8 @@ menu, mod, lệnh|🔹ở Menu mod bằng cách: Vào Chức năng mod nằm tro
 menu, mod, lệnh|🔹PC bật bằng phím "m" hoặc phím "x"🔹Mod Koi: ấn biểu tượng cạnh thanh máu để mở  
 menu, mod, lệnh|🔹Một số lệnh cơ bản là như nhau như: ts, ak,...
 giới hạn, mở giới hạn, không lên sức mạnh, không cộng|🔹Mở giới hạn sức mạnh tại Quốc Vương ở vách núi Mori nhé  
-nâng cấp bội, ngọc bội|🔹Ngọc bội mua ở shop VIP tại Santa  🔹Nâng cấp lên eyes tại NPC đầu map đảo Kame => Đào Hoa Đảo => NPC nâng cấp  🔹Lưu ý: Đọc kỹ hướng dẫn NPC trước khi thao tác  
+nâng cấp bội, ngọc bội, nrsd|🔹Ngọc bội mua ở shop VIP tại Santa  🔹Nâng cấp lên eyes tại NPC đầu map đảo Kame => Đào Hoa Đảo => NPC nâng cấp  🔹Lưu ý: Đọc kỹ hướng dẫn NPC trước khi thao tác  🔹Nâng cấp lên eyes tại NPC đầu map đảo Kame => Đào Hoa Đảo => NPC nâng cấp  🔹Lưu ý: Đọc kỹ hướng dẫn NPC trước khi thao tác
+nâng cấp bội, ngọc bội, nrsd|🔹Tham gia nrsd 3s để nhận danh hiệu nrd thay thế vào ô ngọc bội cũng được nhé
 ngọc hóa|🔹Ngọc hóa là chức năng độc lập với pha lê hóa, giúp ép ngọc vào trang bị tăng chỉ số  🔹Ngọc hóa trang bị tại Bà Hạt Mít  🔹Ngọc kiếm ở boss Coler hoặc mua ở shop Santa  
 ngân phiếu|🔹Ngân phiếu chỉ quy đổi từ coin nạp  🔹Đổi coin tại NPC Gohan Nguyệt Nhật ở đảo Kame  
 ngọc rồng siêu cấp, ngọc rồng sc, nrsc|🔹Điều ước Ngọc Rồng Siêu Cấp: nhẫn quý tộc, hoa bỉ ngạn, đổi skill, cải trang VIP 7–14 ngày  
