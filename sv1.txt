@@ -63,8 +63,7 @@ hồn lính, hồn tướng|🔹Hồn tướng nhai cuồng nộ siêu cấp, sa
 ip sv, ip server, vũ đăng, ip sver, xin ip, ip game|🔹IP server là: marid:14.225.202.16:14445:0,0,0  Mod vũ đăng thì thêm đuôi |225 
 jar, java|🔹Link tải: http://ngocrongmarid.com/download/java 
 jar, java|🔹Hướng dẫn Trên điện thoại:  🔹Bước 1: Xoá J2me Loader hiện tại trên máy  🔹Bước 2: Tải J2ME Loader tại CH Play  🔹Bước 3: Bấm dấu + rồi chọn file jar của game để mở 
-jar, java|🔹Hướng dẫn Trên máy tính:  🔹Bước 1: Xoá dữ liệu cũ (C:\Users\Administrator\.microemulator\...)  🔹Bước 2: Tải AngelChip Emulator và file Jar của game  🔹Bước 3: Mở AngelChip Emulator, kéo file Jar vào đó   
-jar, java|( Đối với bản New - Bản này nhiều cái mới hơn): Chọn Tiện ích -> Đổi IP -> Xóa IP cũ -> nhập ip trong ngoặc kép "marid:14.225.202.16:14445:0,0,0" -> Lưu -> Tải dữ liệu lại
+jar, java|🔹Hướng dẫn Trên máy tính:  🔹Bước 1: Xoá dữ liệu cũ (C:\Users\Administrator\.microemulator\...)  🔹Bước 2: Tải AngelChip Emulator và file Jar của game  🔹Bước 3: Mở AngelChip Emulator, kéo file Jar vào đó
 jar, java| Thông thường bản jar nếu lần đầu tải về chưa vào được thì hãy thực hiện thao thoát ra vào lại vài lần là được nhé 
 kuku|🔹Tới thành phố Vegeta gặp Cui để tìm Kuku, Mập Đầu Đinh, Rambo 🔹Nếu NPC chat “Chết rồi” thì boss đã chết, đứng đợi spawn lượt mới  🔹Boss sẽ xuất hiện ở Nam Kame  
 menu, mod, lệnh|🔹ở Menu mod bằng cách: Vào Chức năng mod nằm trong mục chức năng của bản thân  -  ấn logo trên màn hình hoặc nút tam giác bên phải màn hình  
