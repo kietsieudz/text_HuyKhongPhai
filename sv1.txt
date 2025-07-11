@@ -59,7 +59,7 @@ thần linh, đồ thần, đồ tl|🔹Đồ thần linh có thể up ở Cold,
 thần linh, đồ thần, đồ tl|🔹Chi tiết: https://ngocrongmarid.com/bai-viet?id=2  
 hồn lính, hồn tướng|🔹Up hồn lính thì nhai cuồng nộ thường  
 hồn lính, hồn tướng|🔹Hồn tướng nhai cuồng nộ siêu cấp, sau đó up quái ở Cold  
-ip sv, ip server, vũ đăng, ip sver, xin ip, ip game|🔹IP server là: marid:14.225.202.16:14445:0,0,0|225  
+ip sv, ip server, vũ đăng, ip sver, xin ip, ip game|🔹IP server là: marid:14.225.202.16:14445:0,0,0  Mod vũ đăng thì thêm đuôi |225 
 jar, java|🔹Link tải: http://ngocrongmarid.com/download/java 
 jar, java|🔹Hướng dẫn Trên điện thoại:  🔹Bước 1: Xoá J2me Loader hiện tại trên máy  🔹Bước 2: Tải J2ME Loader tại CH Play  🔹Bước 3: Bấm dấu + rồi chọn file jar của game để mở 
 jar, java|🔹Hướng dẫn Trên máy tính:  🔹Bước 1: Xoá dữ liệu cũ (C:\Users\Administrator\.microemulator\...)  🔹Bước 2: Tải AngelChip Emulator và file Jar của game  🔹Bước 3: Mở AngelChip Emulator, kéo file Jar vào đó   
