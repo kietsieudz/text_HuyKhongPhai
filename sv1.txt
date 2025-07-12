@@ -96,8 +96,9 @@ bt, sd nhanh, btc1, btc2, bấm cái nút, bông tai, btc3, cấp 3, cấp 2, bt
 mvbt, đá xanh, đá đỏ, đá tím, bông tai, mảnh vỡ, btc2, btc3, nguyên liệu, bt2, bt3|🔹Up các nguyên liệu mvbt, đá xanh, đá đỏ, đá tím nâng BTC2, BTC3 ở các map Nappa, Fide  🔹Nâng cấp bông tai tại Bà Hạt Mít ở Vách Núi 🔹Chỉ số max của btc2 là 15% 🔹Chỉ số max của btc3 là 25% 
 20k, mốc nạp|🔹Mốc nạp 20k nhận CT Bư Noel 60% SD, 120% HP, KI vĩnh viễn🔹Các mốc nạp khác đăng nhập vào web để xem chi tiết.  
 mua acc, bán acc|🔹Mua, bán acc nhớ liên hệ admin Ngọc Rồng Marid để giao dịch trung gian, tránh bị lừa đảo  
-btc4, bt4, khuyên vs, vô song|🔹BTC4 (Khuyên Vô Song) cần săn boss và tích lũy Hoa Bỉ Ngạn để mua trong shop  
-btc4, bt4, khuyên vs, vô song|🔹BTC4 có thể pha lê hóa max 5s và ngọc hóa 10 level  
+btc4, bt4, khuyên vs, vô song, bt cấp 4, bông tai cấp 4, bông tai c4|🔹BTC4 (Khuyên Vô Song) cần săn boss và tích lũy Hoa Bỉ Ngạn để mua trong shop
+btc4, bt4, khuyên vs, vô song, bt cấp 4, bông tai cấp 4, bông tai c4|🔹Sắp tới sẽ có chức năng nâng cấp từ BTC3 max chỉ số lên BTC4 
+btc4, bt4, khuyên vs, vô song, bt cấp 4, bông tai cấp 4, bông tai c4|🔹BTC4 có thể pha lê hóa max 5s và ngọc hóa 10 level  
 ad, admin|🔹Có việc gì thì ib riêng cho admin - key vàng nhé (Mình là bot chỉ hỗ trợ trong box chat thôi)  
 tốc độ, cheat, speed|🔹Lệnh tốc độ game: cheat x, cheat_x, tdx, speedx, speed_x (x là số nhé)  🔹Một số mod thì bạn ấn vào Logo vào phần Menu để chỉnh  
 sự kiện, event, sk, kiếm xô cá, tìm xô cá|🔹Chi tiết sự kiện hè tại: http://ngocrongmarid.com/bai-viet?id=12  
