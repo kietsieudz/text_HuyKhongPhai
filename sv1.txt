@@ -17,8 +17,8 @@ mượn tiền, giả mạo, mạo danh|🔹Dạo này nhiều người đổi t
 ô cuối đệ, ô trống, ô cuối|🔹Khi đệ tử đạt 200 tỉ và 250 tỉ sức mạnh sẽ mở 2 ô phụ kiện: đeo lưng và ván bay  
 phiếu giảm giá, pgg|🔹Phiếu giảm giá: săn boss Doraemon, phần quà mốc nạp  
 auto đậu, buff đậu, đậu cho đệ|🔹Chat "adau" để auto đậu cho đệ  
-bật ts, ts quái, tàn sát, loại quái, một con quái|🔹Để bật tàn sát theo nhu cầu: Mở menu => luyện tập  
-bật ts, ts quái, tàn sát,loại quái, một con quái, một skill, một loại skill|🔹Để chỉ sử dụng những skill bạn muốn, bạn chỉ gán các skill tương ứng sau đó out ra vào lại là được  
+bật ts, ts quái, tàn sát, loại quái, một con quái|🔹Để bật tàn sát theo nhu cầu: Mở menu ( Ấn vào logo ) => luyện tập => chọn loại quái muốn tàn sát  
+bật ts, ts quái, tàn sát,loại quái, một con quái, một skill, một loại skill|🔹Để chỉ sử dụng những skill bạn muốn, bạn chỉ cần gán các skill tương ứng sau đó out ra vào lại là cập nhật  
 thánh địa|🔹Đến Quy Lão Kame vào => Chức Năng Bang Hội => Lãnh Địa Bang hội => Di chuyển đến Tây, Bắc Thánh Địa  
 Test dame, khu test, test kame, test sức đánh, test hp, test skill|🔹Test dame lên Robot ở vách núi aru, bật cờ lên nhé!  
 hp boss, sát thương, máu boss, dame lên boss|🔹HP thật của một số Boss sẽ hiển thị khi Boss chat  
