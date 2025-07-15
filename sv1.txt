@@ -36,11 +36,10 @@ trả nv, bò mộng,nv ngày, nhiệm vụ ngày|🔹Hoàn thành phép tính (
 item, item thường, cn, bh, gx, siêu cấp, cấp 2, c2|🔹Item thường mở cskb  🔹Item siêu cấp mở cskb, săn boss tàu paypay, đánh nhân bản  
 dame|🔹Server dame trung nhé.
 thần tiên, than tien|🔹Đồ thần tiên: Mua shop Ayaka cạnh bà Hạt Mít ở đảo Kame bán 30k Nhẫn Quý Tộc 🔹Hoặc mua ở shop Santa 150 ngân phiếu  
-tải game, link tải, tải sao|🔹Đầy các bản apk, jar, pc, tf tại: http://ngocrongmarid.com  
-tải game, link tải, tải sao|🔹Bạn muốn tải bản nào?  
-apk, adr, androi|🔹Bản APK: http://ngocrongmarid.com/download/android  
-pc, máy tính, window|🔹Bản PC: http://ngocrongmarid.com/download/windows  
-iphone, ios, có tf, testfligt, test flight|🔹Bản IOS, TF: https://testflight.apple.com/join/RtKrzVWp
+tải game, link tải, tải sao|🔹Đầy các bản apk, jar, pc, tf tại: http://ngocrongmarid.com 🔹Bạn muốn tải bản nào?  🔹 Nhớ xem hướng dẫn cài đặt và lưu ý nhé
+apk, adr, androi|🔹Bản APK: http://ngocrongmarid.com/download/android 🔹 Nhớ xem hướng dẫn cài đặt và lưu ý nhé
+pc, máy tính, window|🔹Bản PC: http://ngocrongmarid.com/download/windows 🔹Nhớ xem hướng dẫn cài đặt và lưu ý nhé
+iphone, ios, có tf, testfligt, test flight|🔹Bản IOS, TF: https://testflight.apple.com/join/RtKrzVWp 🔹 Nhớ xem hướng dẫn cài đặt và lưu ý nhé
 open, hay test, đang test|🔹Server Dame TRUNG MỚI OPEN free vàng, ngọc xanh, hồng ngọc và nhiều phần quà từ giftcode khác  
 ngu, ngáo, bot|🔹Chào bạn, mình là bot chat tự động để hỗ trợ các thắc mắc của bạn trong group chat này  
 ngu, ngáo, ad|🔹Có việc gì quan trọng vui lòng ib key vàng nhé  
@@ -68,7 +67,7 @@ thần linh, đồ thần, đồ tl|🔹Chi tiết: https://ngocrongmarid.com/ba
 hồn lính, hồn tướng|🔹Up hồn lính thì nhai cuồng nộ thường  
 hồn lính, hồn tướng|🔹Hồn tướng nhai cuồng nộ siêu cấp, sau đó up quái ở Cold  
 ip sv, ip server, vũ đăng, ip sver, xin ip, ip game|🔹IP server là: marid:14.225.202.16:14445:0,0,0  Mod vũ đăng thì thêm đuôi |225 
-jar, java|🔹Link tải: http://ngocrongmarid.com/download/java 
+jar, java|🔹Link tải: http://ngocrongmarid.com/download/java 🔹 Nhớ xem hướng dẫn cài đặt và lưu ý nhé
 jar, java|🔹Hướng dẫn Trên điện thoại:  🔹Bước 1: Xoá J2me Loader hiện tại trên máy  🔹Bước 2: Tải J2ME Loader tại CH Play  🔹Bước 3: Bấm dấu + rồi chọn file jar của game để mở 
 jar, java|🔹Hướng dẫn Trên máy tính:  🔹Bước 1: Xoá dữ liệu cũ (C:\Users\Administrator\.microemulator\...)  🔹Bước 2: Tải AngelChip Emulator và file Jar của game  🔹Bước 3: Mở AngelChip Emulator, kéo file Jar vào đó
 jar, java| Thông thường bản jar nếu lần đầu tải về chưa vào được thì hãy thực hiện thao thoát ra vào lại vài lần là được nhé 
